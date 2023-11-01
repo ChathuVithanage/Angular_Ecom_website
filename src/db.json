@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "chathu",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "id": 1
+    },
+    {
+      "name": "sandu",
+      "email": "smc@gmail.com",
+      "password": "smc",
+      "id": 2
+    },
+    {
+      "name": "ChathuVithanage",
+      "password": "chathu",
+      "email": "chathuriimasha60@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "K.V.Sanduni Imasha",
+      "password": "123",
+      "email": "sadunismc@gmail.com",
+      "id": 4
+    }
+  ]
+}
